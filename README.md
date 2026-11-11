@@ -67,7 +67,7 @@ Las cuentas nuevas reciben **3 días de Premium gratis** y **10 saltos de anunci
 
 La app avisa sola cuando hay una versión nueva y se actualiza sin salir de ella. Las notas de cada versión están en [Releases](https://github.com/Amnhesia/anivision/releases).
 
-Solo se mantiene disponible la versión vigente: las anteriores se retiran al publicar una nueva.
+
 
 ## Requisitos
 
