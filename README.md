@@ -42,7 +42,7 @@ App de anime para Android con sub y latino, descargas para ver sin internet y av
 | **Reproductor completo** | Velocidad, repetir, segundo plano, ventana flotante, capturas, bloqueo de pantalla y gestos de brillo y volumen. |
 | **Enviar a la TV** | Mira en tu televisor con Chromecast. |
 | **Listas y comunidad** | Favoritos, viendo, terminados, valoraciones y comentarios por episodio. |
-| **Temas de color** | Más de 20 temas, con Grafito por defecto. |
+| **Temas de color** | Grafito, Oscuro y Claro para todos; más de 20 temas con Premium. |
 
 ## Premium
 
@@ -50,7 +50,7 @@ Opcional, para apoyar el proyecto:
 
 - Sin anuncios en toda la app.
 - Marco e insignia dorados en tu perfil y comentarios.
-- Temas exclusivos y versiones nuevas antes que nadie.
+- Más de 20 temas de color y versiones nuevas antes que nadie.
 - Sugiere animes directamente a los administradores.
 
 Las cuentas nuevas reciben **3 días de Premium gratis** y **10 saltos de anuncio**. También puedes ganar saltos viendo anuncios desde la app.
